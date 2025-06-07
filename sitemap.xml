@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hylconnect.github.io/connect/about/index.html</loc>
-    
-    <lastmod>2025-06-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/posts/1642563820/</loc>
-    
-    <lastmod>2025-06-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hylconnect.github.io/connect/posts/2903716088/</loc>
     
     <lastmod>2025-06-07</lastmod>
@@ -46,6 +28,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://hylconnect.github.io/connect/posts/1642563820/</loc>
+    
+    <lastmod>2025-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hylconnect.github.io/connect/about/index.html</loc>
+    
+    <lastmod>2025-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://hylconnect.github.io/connect</loc>
@@ -56,89 +56,19 @@
 
   
   <url>
-    <loc>https://hylconnect.github.io/connect/tags/%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hylconnect.github.io/connect/tags/%E7%A4%BE%E4%BC%9A%E6%80%9D%E8%80%83/</loc>
     <lastmod>2025-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hylconnect.github.io/connect/tags/%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2025-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E4%BD%93%E8%82%B2/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E4%BD%93%E8%82%B2/%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E4%BD%93%E8%82%B2/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E7%A4%BE%E4%BC%9A/%E8%81%8C%E5%9C%BA/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E5%8E%86%E5%8F%B2/%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E4%BD%93%E8%82%B2/%E5%8E%86%E5%8F%B2/%E7%A4%BE%E4%BC%9A/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E7%A4%BE%E4%BC%9A/%E8%81%8C%E5%9C%BA/%E6%B3%95%E5%BE%8B/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hylconnect.github.io/connect/categories/%E5%8E%86%E5%8F%B2/%E7%A4%BE%E4%BC%9A/%E6%96%87%E5%8C%96/</loc>
-    <lastmod>2025-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
