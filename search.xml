@@ -4,32 +4,6 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/connect/posts/1243066710/"/>
-      <url>/connect/posts/1243066710/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/connect/posts/3632233996/"/>
-      <url>/connect/posts/3632233996/</url>
-      
-        <content type="html"><![CDATA[<p>test</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>同工同酬</title>
       <link href="/connect/posts/946569695/"/>
       <url>/connect/posts/946569695/</url>
@@ -50,46 +24,7 @@
       
         <tags>
             
-            <tag> 性别平等 </tag>
-            
-            <tag> 劳动权益 </tag>
-            
-            <tag> 职场公平 </tag>
-            
-            <tag> 社会正义 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>美式体育主队在计分板右侧</title>
-      <link href="/connect/posts/1642563820/"/>
-      <url>/connect/posts/1642563820/</url>
-      
-        <content type="html"><![CDATA[<p>#知识 </p><p>美国职业体育（MLB 发源，NFL&#x2F;NBA&#x2F;NHL 继承）的记分牌习惯<strong>源自棒球打点表的”先客后主”设计</strong>，意在反映<strong>比赛的进攻顺序</strong>，并逐渐形成为统一的媒体与场馆展示标准。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 体育 </category>
-          
-          <category> 文化 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 体育文化 </tag>
-            
-            <tag> 美国体育 </tag>
-            
-            <tag> 棒球 </tag>
-            
-            <tag> 计分规则 </tag>
+            <tag> 社会思考 </tag>
             
         </tags>
       
@@ -118,13 +53,34 @@
       
         <tags>
             
-            <tag> 足球 </tag>
+            <tag> 知识 </tag>
             
-            <tag> 苏格兰足球 </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>美式体育主队在计分板右侧</title>
+      <link href="/connect/posts/1642563820/"/>
+      <url>/connect/posts/1642563820/</url>
+      
+        <content type="html"><![CDATA[<p>#知识 </p><p>美国职业体育（MLB 发源，NFL&#x2F;NBA&#x2F;NHL 继承）的记分牌习惯<strong>源自棒球打点表的”先客后主”设计</strong>，意在反映<strong>比赛的进攻顺序</strong>，并逐渐形成为统一的媒体与场馆展示标准。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 体育 </category>
+          
+          <category> 文化 </category>
+          
+      </categories>
+      
+      
+        <tags>
             
-            <tag> 宗教历史 </tag>
-            
-            <tag> 社会冲突 </tag>
+            <tag> 知识 </tag>
             
         </tags>
       
@@ -153,13 +109,7 @@
       
         <tags>
             
-            <tag> 历史研究 </tag>
-            
-            <tag> 种族主义 </tag>
-            
-            <tag> 纳粹德国 </tag>
-            
-            <tag> 文化误解 </tag>
+            <tag> 知识 </tag>
             
         </tags>
       
